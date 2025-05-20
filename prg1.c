@@ -11,4 +11,10 @@ int main() {
         printf("%d is odd.\n", num);
     
     return 0;
+} 
+
+#include <stdio.h>
+int main() {
+	printf("hello world");
+	return 0;
 }
