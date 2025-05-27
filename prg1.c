@@ -15,6 +15,6 @@ int main() {
 
 #include <stdio.h>
 int main() {
-	printf("hello world");
+	printf("Ramya NR");
 	return 0;
 }
